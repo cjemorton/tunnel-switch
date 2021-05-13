@@ -5,7 +5,7 @@ function FindProxyForURL(url, host)
     // whole sit
     var site_list = [
         ,'pfsense.mrnet.work'
-        ,'sonarr.mrnet.work'
+        ,'sonarr-gua.mrnet.work'
     ];
 
     for(var index = 0;index<site_list.length;index++){
